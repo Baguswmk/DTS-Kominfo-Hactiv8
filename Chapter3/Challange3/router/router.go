@@ -1,8 +1,8 @@
 package router
 
 import (
-	"DTS-Kominfo/Chapter3/Challange3/controllers"
-	"DTS-Kominfo/Chapter3/Challange3/middlewares"
+	"DTS-Kominfo-Hactiv8/Chapter3/Challange3/controllers"
+	"DTS-Kominfo-Hactiv8/Chapter3/Challange3/middlewares"
 
 	"github.com/gin-gonic/gin"
 )

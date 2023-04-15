@@ -1,8 +1,8 @@
 package middlewares
 
 import (
-	"go-jwt/database"
-	"go-jwt/models"
+	"DTS-Kominfo-Hactiv8/Chapter3/Challange2/database"
+	"DTS-Kominfo-Hactiv8/Chapter3/Challange2/models"
 	"net/http"
 	"strconv"
 

@@ -1,8 +1,8 @@
 package main
 
 import (
-	"go-jwt/database"
-	"go-jwt/router"
+	"DTS-Kominfo-Hactiv8/Chapter3/Challange3/database"
+	"DTS-Kominfo-Hactiv8/Chapter3/Challange3/router"
 )
 
 func main(){

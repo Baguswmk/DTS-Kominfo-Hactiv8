@@ -1,8 +1,8 @@
 package router
 
 import (
-	"go-jwt/controllers"
-	"go-jwt/middlewares"
+	"DTS-Kominfo-Hactiv8/Chapter3/Challange2/controllers"
+	"DTS-Kominfo-Hactiv8/Chapter3/Challange2/middlewares"
 
 	"github.com/gin-gonic/gin"
 )

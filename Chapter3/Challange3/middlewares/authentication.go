@@ -1,7 +1,7 @@
 package middlewares
 
 import (
-	"DTS-Kominfo/Chapter3/Challange3/helpers"
+	"DTS-Kominfo-Hactiv8/Chapter3/Challange3/helpers"
 	"net/http"
 
 	"github.com/gin-gonic/gin"

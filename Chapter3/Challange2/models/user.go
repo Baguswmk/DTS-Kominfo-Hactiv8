@@ -1,8 +1,8 @@
 package models
 
 import (
-	"go-jwt/enums"
-	"go-jwt/helpers"
+	"DTS-Kominfo-Hactiv8/Chapter3/Challange2/enums"
+	"DTS-Kominfo-Hactiv8/Chapter3/Challange2/helpers"
 
 	"github.com/asaskevich/govalidator"
 	"gorm.io/gorm"

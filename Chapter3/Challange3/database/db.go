@@ -2,7 +2,7 @@ package database
 
 import (
 	"fmt"
-	"DTS-Kominfo/Chapter3/Challange3/models"
+	"DTS-Kominfo-Hactiv8/Chapter3/Challange3/models"
 	"log"
 
 	"gorm.io/driver/postgres"

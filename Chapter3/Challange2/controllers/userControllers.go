@@ -1,10 +1,10 @@
 package controllers
 
 import (
-	"go-jwt/database"
-	"go-jwt/enums"
-	"go-jwt/helpers"
-	"go-jwt/models"
+	"DTS-Kominfo-Hactiv8/Chapter3/Challange2/database"
+	"DTS-Kominfo-Hactiv8/Chapter3/Challange2/enums"
+	"DTS-Kominfo-Hactiv8/Chapter3/Challange2/helpers"
+	"DTS-Kominfo-Hactiv8/Chapter3/Challange2/models"
 	"net/http"
 
 	"github.com/gin-gonic/gin"

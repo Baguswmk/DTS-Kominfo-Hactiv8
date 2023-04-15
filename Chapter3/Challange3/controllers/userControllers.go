@@ -1,10 +1,10 @@
 package controllers
 
 import (
-	"DTS-Kominfo/Chapter3/Challange3/database"
-	"DTS-Kominfo/Chapter3/Challange3/enums"
-	"DTS-Kominfo/Chapter3/Challange3/helpers"
-	"DTS-Kominfo/Chapter3/Challange3/models"
+	"DTS-Kominfo-Hactiv8/Chapter3/Challange3/database"
+	"DTS-Kominfo-Hactiv8/Chapter3/Challange3/enums"
+	"DTS-Kominfo-Hactiv8/Chapter3/Challange3/helpers"
+	"DTS-Kominfo-Hactiv8/Chapter3/Challange3/models"
 	"net/http"
 
 	"github.com/gin-gonic/gin"

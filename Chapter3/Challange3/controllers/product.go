@@ -2,9 +2,9 @@ package controllers
 
 import (
 	"errors"
-	"DTS-Kominfo/Chapter3/Challange3/database"
-	"DTS-Kominfo/Chapter3/Challange3/helpers"
-	"DTS-Kominfo/Chapter3/Challange3/models"
+	"DTS-Kominfo-Hactiv8/Chapter3/Challange3/database"
+	"DTS-Kominfo-Hactiv8/Chapter3/Challange3/helpers"
+	"DTS-Kominfo-Hactiv8/Chapter3/Challange3/models"
 	"net/http"
 	"strconv"
 

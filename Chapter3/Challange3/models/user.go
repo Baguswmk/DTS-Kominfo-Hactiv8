@@ -1,8 +1,8 @@
 package models
 
 import (
-	"DTS-Kominfo/Chapter3/Challange3/enums"
-	"DTS-Kominfo/Chapter3/Challange3/helpers"
+	"DTS-Kominfo-Hactiv8/Chapter3/Challange3/enums"
+	"DTS-Kominfo-Hactiv8/Chapter3/Challange3/helpers"
 
 	"github.com/asaskevich/govalidator"
 	"gorm.io/gorm"

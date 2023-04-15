@@ -1,7 +1,7 @@
 package helpers
 
 import (
-	"go-jwt/enums"
+	"DTS-Kominfo-Hactiv8/Chapter3/Challange2/enums"
 	"errors"
 	"strings"
 	
